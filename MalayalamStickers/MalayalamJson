@@ -210,5 +210,101 @@
                 }
             ]
         }
+        {
+            "identifier": "abx50",
+            "name": "Malayalam Kidu 2",
+            "publisher": "Jeevan crasta",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam5/trayimg.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626385.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626394.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626401.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626400.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626405.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626421.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626410.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626427.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626398.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626429.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626434.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/MalayalamStickers/Malayalam2/webp/file_2626392.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        }
     ]
 }
