@@ -2,10 +2,218 @@
     "android_play_store_link": "",
     "ios_app_store_link": "",
     "sticker_packs": [
+        {
+            "identifier": "",
+            "name": "Similing Emoji 1",
+            "publisher": "Johar",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/tray.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739768.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739796.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739769.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739772.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739771.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739773.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739774.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739775.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739777.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739776.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739778.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739780.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739781.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739782.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739779.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739783.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739784.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739787.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739788.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739786.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },{
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739790.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739791.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739789.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739785.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739792.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739793.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739794.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done2/file_21739795.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
        {
             "identifier": "xc8dd",
-            "name": "Smiling Emoji",
-            "publisher": "Jaraf",
+            "name": "Smiling Emoji 2",
+            "publisher": "Johar",
             "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/EmojiStickers/done1/tray.png",
             "publisher_email": "",
             "publisher_website": "",
