@@ -2,6 +2,296 @@
     "android_play_store_link": "",
     "ios_app_store_link": "",
     "sticker_packs": [
+    {
+            "identifier": "ssd51",
+            "name": "Arkey",
+            "publisher": "Navo",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805643.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805639.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805641.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805654.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805652.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805651.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805644.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805646.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805643.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805648.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done4/file_21805656.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+	{
+            "identifier": "5dsd4",
+            "name": "Baach",
+            "publisher": "Navo",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/tray.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806286.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806256.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806279.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806227.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806233.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806248.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806302.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806272.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806293.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806242.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806216.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806207.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806262.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806143.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806200.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806166.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806135.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806187.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806156.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806221.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },{
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806194.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806162.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806174.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806149.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806128.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806182.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806139.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done2/file_21806123.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
        {
             "identifier": "d5fg7",
             "name": "Dumb ways 2 die",
