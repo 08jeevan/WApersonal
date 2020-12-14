@@ -6,7 +6,7 @@
             "identifier": "kii83",
             "name": "Annimals",
             "publisher": "Stikkr",
-            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done5/tray%20(13).png",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/Done5/tray.png",
             "publisher_email": "",
             "publisher_website": "",
             "privacy_policy_website": "",
@@ -896,7 +896,7 @@
         },
         {
             "identifier": "4dsd5",
-            "name": "Cat #2",
+            "name": "Cats #2",
             "publisher": "Lystlor",
             "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done3/file_21806629.png",
             "publisher_email": "",
@@ -1044,13 +1044,7 @@
                         ""
                     ]
                 },
-                {
-                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/AnimalStickers/done3/file_21806632.webp",
-                    "emoji": [
-                        "",
-                        ""
-                    ]
-                }                
+                          
             ]
         }
     ]
