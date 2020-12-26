@@ -3,6 +3,412 @@
 	"ios_app_store_link": "",
 	"sticker_packs": [
 		{
+            "identifier": "jnxfd7",
+            "name": "Indian ISL",
+            "publisher": "Mostly",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23681275.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681281.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681315.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681304.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681337.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681322.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681329.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681284.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681293.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681275.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681346.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681360.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23681353.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+	{
+            "identifier": "mns70",
+            "name": "Indian Flag",
+            "publisher": "Fortune X",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done4/file_23680980.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680939.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680942.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680951.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680945.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680936.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680947.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680954.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680956.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680963.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680959.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680969.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680976.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680973.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680980.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done5/file_23680984.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+	{
+            "identifier": "1xjsi",
+            "name": "Indian army",
+            "publisher": "KS studios",
+            "tray_image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681399.png",
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681227.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681252.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681283.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681217.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681245.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681271.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681237.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681300.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681259.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681307.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681383.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681291.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681317.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681333.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681349.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681324.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681359.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681372.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681392.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681404.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },{
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681399.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681429.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681445.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681418.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681412.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "https://raw.githubusercontent.com/08jeevan/WApersonal/master/IndianStickers/done6/file_23681435.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+		{
 			"identifier": "286dd",
 			"name": "Hyperface",
 			"publisher": "Stikkr",
